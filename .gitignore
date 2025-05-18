@@ -1,0 +1,28 @@
+# Entorno virtual completo
+smartbin_env/
+
+# Archivos binarios de Python
+__pycache__/
+*.py[cod]
+*.so
+
+# TensorFlow/OpenCV
+*.h5
+*.pb
+*.onnx
+*.npy
+
+# Datasets e imágenes
+*.jpg
+*.png
+*.mp4
+
+# Configuraciones de IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Logs y cachés
+*.log
+*.cache
+EOL
